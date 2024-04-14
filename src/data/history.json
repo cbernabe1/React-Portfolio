@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Outsystems Developer",
+    "organisation": "DXC",
+    "startDate": "September, 2023",
+    "endDate": "December, 2023",
+    "experiences": ["Package tracking proof of concept."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Powerapps Developer",
+    "organisation": "DXC",
+    "startDate": "February, 2024",
+    "endDate": "Present",
+    "experiences": ["Develop useful functionalities for payroll", "Identifies and fix bugs in functionalities","Standardize the payroll system."],
+    "imageSrc": "history/microsoft.png"
+  }
+]

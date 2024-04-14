@@ -1,0 +1,53 @@
+@import "../../var.css";
+
+.container{
+    margin: 10%;
+    transition: ease-in;
+}
+
+.title{
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.details{
+    display: flex;
+    border-radius: 29px;
+    background-color: var(--color-primary);
+    padding: 50px;
+    justify-content: space-between;
+    box-shadow: 0px 7px 12px -9px rgba(0,0,0,0.5);
+}
+
+
+.leftPane{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftPane p{
+    text-transform: uppercase;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.listItem{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.listItem img{
+    width: 50px;
+    height: 50px;
+}
+
+.listItem a{
+    text-decoration: none;
+    color: var(--color-text);
+}

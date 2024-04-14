@@ -1,0 +1,14 @@
+@import "./var.css";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-poppins),Arial, Helvetica, sans-serif;
+}
+
+body{
+  scroll-behavior: smooth;
+  background-color: var(--color-bg);
+  position: relative;
+}

@@ -1,0 +1,28 @@
+@import "../../var.css";
+
+.container{
+    margin: 10%;
+}
+
+.title{
+    text-transform: uppercase;
+}
+
+.aboutList{
+    display: flex;
+    list-style: none;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.div{
+    background-color: var(--color-primary);
+    padding: 10px;
+    border-radius: 29px;
+    width: 475px;
+    height: 368px;
+    box-shadow: 0px 7px 12px -9px rgba(0,0,0,0.5);
+}
